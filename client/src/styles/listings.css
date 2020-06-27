@@ -1,0 +1,55 @@
+.imageContainer {
+  /* display: flex;
+  justify-content: flex-end;
+  justify-items: right; */
+  margin: auto;
+  display: inline;
+  justify-content: center;
+}
+
+.singleListing h1 {
+  text-align: center;
+  color: #ffa505;
+}
+
+.price {
+  font-size: 21px;
+}
+
+.singleListingImage {
+  height: 304px;
+  width: 588px;
+  border-radius: 45px;
+}
+
+.show-more {
+  color: gray;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0.09px;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+.show-more:hover {
+  color: blue;
+}
+
+.listingTitle {
+  font-size: 35px;
+  text-decoration: underline;
+}
+
+.border-box {
+  box-sizing: border-box;
+  height: 1px;
+  width: 1200px;
+}
+
+.text {
+  font-size: 18px;
+  text-align: center;
+}
+
+.search-bar {
+  float: right;
+}

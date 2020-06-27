@@ -1,0 +1,64 @@
+.navbar {
+  overflow: hidden;
+  background-color: #ffa500;
+}
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: Gill Sans, sans-serif;
+  color: rgb(104, 86, 86);
+}
+
+.navbar a:hover {
+  background-color: rgb(164, 165, 170);
+  color: white;
+  border-radius: 8%;
+}
+.navbar a.active {
+  background-color: #4caf50;
+  color: white;
+}
+
+.nav-right {
+  float: right;
+  padding-top: 0px;
+  padding-right: 50px;
+}
+
+.nav-login {
+  display: flex;
+  justify-content: space-evenly;
+  width: 550px;
+  height: 52px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  line-height: 32px;
+  text-align: right;
+}
+
+.nav-login button {
+  color: white;
+  font-weight: 600;
+}
+
+.nav-name {
+  /* background-color: lightseagreen; */
+  margin-top: 15px;
+  color: white;
+}
+
+button:hover {
+  background: #ffa500;
+}
+
+button:active {
+  background: whitesmoke;
+}
+
+.logo {
+  padding-left: 100px;
+}
