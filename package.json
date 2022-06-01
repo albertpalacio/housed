@@ -27,7 +27,7 @@
     "react-router-dom": "^5.2.0",
     "react-simple-chatbot": "^0.6.1",
     "sendgrid": "^5.2.3",
-    "sharp": "^0.25.3",
+    "sharp": "^0.30.5",
     "styled": "^1.0.0",
     "validator": "^13.0.0"
   },
